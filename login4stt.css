@@ -1,0 +1,28 @@
+body{
+    background: url( https://images.unsplash.com/photo-1526951521990-620dc14c214b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80);
+    background-repeat:no repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color:red; 
+    font-size:212px;
+    font-family: "Times New Roman", Times, serif;
+    padding-top:4%;
+}
+h2{
+    text-align: center;
+    color:black; 
+    font-size:24px;
+    font-family: "Times New Roman", Times, serif;
+}
+  
+#description{
+    padding-top:25%;
+    text-align: center;
+}
+
+#form-div{
+    /* width:60%; */
+    padding-left: 30%
+}
